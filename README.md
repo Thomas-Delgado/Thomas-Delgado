@@ -19,6 +19,6 @@ I'm a Junior Backend Developer with experience in Python,AWS,Cloud Computing,Flu
 
 ---
 
-Check out my pinned repositories below for more! 😊
+Check out my pinned repositories for more! 😊
 
 ---
